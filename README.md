@@ -22,5 +22,20 @@
 
 
 Я использовал рабочую среду PyCharm.
+Сакчиваем библиотеки из файлика --> "requirements.txt"
+
+Открываем проект в рабочей среде.
+
+После успешного скачивания всех библиотек прописываем:
+
+1. python manage.py makemigrations
+2. python manage.py migrate 
+3. python manage.py runserver  
+
+Обязательно смотрите путь, где вы прописываете команды, вы должны быть в проекте!!!!!
+
+
+<img width="814" height="97" alt="image" src="https://github.com/user-attachments/assets/c80e57c9-4755-4add-ab6a-51439ac6d4e3" />
+
 
 
